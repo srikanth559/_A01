@@ -1,0 +1,53 @@
+.about-photo{
+    border-radius: 50%;
+    width:600px;
+    height: 300px;
+    margin-left: 100px;
+}
+.contact-heading{
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.about-content {
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.about-video {
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.about-content p {
+    padding-top:20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+iframe {
+    width:920px;
+    height:515px;
+}
+.pd-60{
+    padding-top:60px;
+    padding-bottom: 20px;
+}
+footer p{
+    text-align: center;
+    font-size: 24px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.imageClass{
+    border-radius: 50%;
+width: 1000px;
+height: 500px;
+}
+.anchor-tag{
+    font-size: 24px;
+}
+.jumbotron {
+    background-image: url(bg.png);
+    background-position: right top;
+    background-attachment: fixed;
+}
